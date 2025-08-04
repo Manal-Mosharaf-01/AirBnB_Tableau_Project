@@ -16,7 +16,7 @@ This Tableau dashboard project analyzes Airbnb listings data to provide insights
 - **Sheets:** Five individual sheets providing different visual perspectives (e.g., price distribution, listing types, availability trends).
 - **Dashboard:** A combined interactive dashboard that integrates all sheets for holistic data exploration.
 <p align="left">
-  <img src="images/dashboard.png" alt="Before and After Cleaning" width="800"/>
+  <img src="Dashboard.png" alt="Before and After Cleaning" width="800"/>
 </p>
 
 ## Features
