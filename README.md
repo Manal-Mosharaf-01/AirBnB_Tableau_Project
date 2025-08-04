@@ -28,7 +28,8 @@ This Tableau dashboard project analyzes Airbnb listings data to provide insights
 
 ## How to Use
 
-1. Open the Tableau workbook file (`AirbnbDashboard.twb` or `.twbx`) in Tableau Desktop or Tableau Public.
+1. Open the Tableau workbook file (`AirbnbDashboard.twb` or `.twbx`) in Tableau Desktop or Tableau Public. [View Tableau Dashboard](https://public.tableau.com/views/AirBnBFullProject_17541480853760/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 2. Use the filters on the dashboard to customize views according to your preferences.
 3. Hover over data points for detailed information.
 4. Explore individual sheets for in-depth analysis.
